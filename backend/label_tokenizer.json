@@ -1,0 +1,17 @@
+{
+    "class_name": "Tokenizer",
+    "config": {
+        "num_words": null,
+        "filters": "!\"#$%&()*+,-./:;<=>?@[\\]^_`{|}~\t\n",
+        "lower": true,
+        "split": " ",
+        "char_level": false,
+        "oov_token": null,
+        "document_count": 2869,
+        "word_counts": "{\"physics\": 1345, \"chemistry\": 1524}",
+        "word_docs": "{\"physics\": 1345, \"chemistry\": 1524}",
+        "index_docs": "{\"2\": 1345, \"1\": 1524}",
+        "index_word": "{\"1\": \"chemistry\", \"2\": \"physics\"}",
+        "word_index": "{\"chemistry\": 1, \"physics\": 2}"
+    }
+}
