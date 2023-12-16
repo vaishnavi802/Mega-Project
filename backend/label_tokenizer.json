@@ -7,11 +7,11 @@
         "split": " ",
         "char_level": false,
         "oov_token": null,
-        "document_count": 2869,
-        "word_counts": "{\"physics\": 1345, \"chemistry\": 1524}",
-        "word_docs": "{\"physics\": 1345, \"chemistry\": 1524}",
-        "index_docs": "{\"2\": 1345, \"1\": 1524}",
-        "index_word": "{\"1\": \"chemistry\", \"2\": \"physics\"}",
-        "word_index": "{\"chemistry\": 1, \"physics\": 2}"
+        "document_count": 2,
+        "word_counts": "{\"correct\": 1, \"wrong\": 1}",
+        "word_docs": "{\"correct\": 1, \"wrong\": 1}",
+        "index_docs": "{\"1\": 1, \"2\": 1}",
+        "index_word": "{\"1\": \"correct\", \"2\": \"wrong\"}",
+        "word_index": "{\"correct\": 1, \"wrong\": 2}"
     }
 }
