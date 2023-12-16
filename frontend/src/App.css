@@ -1,0 +1,61 @@
+.App {
+  background-color: rgb(249, 246, 246);
+}
+
+.Header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  padding: 0.9rem;
+  margin: 8px 12px;
+  padding: 0px 0px 24px;
+  height: 90px;
+}
+
+.Header>h2 {
+  font-weight: 500;
+  text-align: center;
+  line-height: 1.5rem;
+}
+
+.Auth-form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 87vh;   
+}
+/* changed height from 100vh */
+
+
+.Auth-form {
+  width: 420px;
+  height: 400px;
+  box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  border-radius: 8px;
+  background-color: white;
+}
+/* changed height from 400px */
+
+.Auth-form-content {
+  padding-left: 12%;
+  padding-right: 12%;
+}
+
+.Auth-form-title {
+  text-align: center;
+  margin-bottom: 1em;
+  font-size: 24px;
+  color: rgb(34, 34, 34);
+  font-weight: 800;
+}
+
+label {
+  font-size: 14px;
+  font-weight: 600;
+  color: rgb(34, 34, 34);
+}
